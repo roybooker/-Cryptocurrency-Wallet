@@ -33,13 +33,13 @@ Before running the notebook, please install the dependencies:
 ```bash
 pip install streamlit
 pip install web3
-
+From web Ganache
 pip install requests
-pip install python-dotenv
+pip install dotenv
 pip install os
 
 ```
-From web Ganache
+
 ---
 
 ## Observations
@@ -56,7 +56,7 @@ Also note that in the end I also amended the code so that Lane had an account ad
 
 
 
-![Ether_balance](Images/screenshots/Ether_balance.png)
+![Price vs Trend](images/Price vs Trend.png)
 
 ![Noise](images/Noise.png)
 
