@@ -33,13 +33,13 @@ Before running the notebook, please install the dependencies:
 ```bash
 pip install streamlit
 pip install web3
-From web Ganache
+
 pip install requests
-pip install dotenv
+pip install python-dotenv
 pip install os
 
 ```
-
+From web Ganache
 ---
 
 ## Observations
@@ -56,23 +56,19 @@ Also note that in the end I also amended the code so that Lane had an account ad
 
 
 
-![Price vs Trend](images/Price vs Trend.png)
-
-![Noise](images/Noise.png)
+![Ether_balance](Images/screenshots/Ether_balance.png)
 
 
 
-![arma_fig](images/arma_fig.png)
-
-![arima_fig](images/arima_fig.png)
+![transaction_lanehave ](Images/screenshots/transaction_lane.png)
 
 
 
-![Composition_of_personal_savings](images/garch_fig.png)
+![transaction_recpiet](Images/screenshots/transaction_recpiet.png)
 
 
 # Conclusions
-
+Using this Platform users where able to find a Fintech professional and make a payment easierly.
 
 ## Contributors
 
